@@ -1,4 +1,8 @@
-﻿using FluentFTP;
+// Entire code is by J0nathan550, if you wish to support me, consider to look our telegram about Alliance RolePlay project.
+// https://t.me/+53617ASc4dg5ZWNi
+// Thanks for using!
+
+using FluentFTP;
 
 AsyncFtpClient client;
 Console.Title = "Alliance Uploader";
