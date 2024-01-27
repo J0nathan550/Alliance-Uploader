@@ -6,4 +6,4 @@
 
 <p align="center">A safe FTP-Server file uploader. The FileZilla for some reason when you pass the files to the server is corrupting some files by not sending the needed amount of bytes to the hosting. This C# Project with help of beautiful library called "Fluent-FTP" fixes this issue. This library uploads files without any corruption or issues.</p>
 
-Support our [Alliance RolePlay](https://t.me/+53617ASc4dg5ZWNi) project, the best Ukrainian RolePlay project with no fuss. !! THIS PROJECT WILL BE ONLY IN UKRAINIAN !!
+Support our [Alliance RolePlay](https://t.me/+53617ASc4dg5ZWNi) project, the best Ukrainian RolePlay project with no fuss.
