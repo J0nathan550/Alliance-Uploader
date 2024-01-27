@@ -66,7 +66,7 @@ while (true)
 
             if (Path.Exists(path))
             {
-                await client.UploadDirectory(@"C:\Users\J0nathan550\Desktop\Alliance\test", @"/", FtpFolderSyncMode.Update, FtpRemoteExists.Overwrite, FtpVerify.None, null, progress);
+                await client.UploadDirectory(path, @"/", FtpFolderSyncMode.Update, FtpRemoteExists.Overwrite, FtpVerify.None, null, progress);
                 break;  
             }
         }
