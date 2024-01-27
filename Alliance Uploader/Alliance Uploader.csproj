@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Alliance_Uploader</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>alliance_icon.ico</ApplicationIcon>
+    <Company>J0nathan550</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="alliance_icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentFTP" Version="49.0.2" />
+  </ItemGroup>
+
+</Project>
